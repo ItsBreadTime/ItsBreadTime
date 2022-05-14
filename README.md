@@ -1,9 +1,15 @@
-## Hi there! It's me, Bread™!
-My nickname is Jump, my real name is Jaruwit Srikamta.<br>
-I'm a student living in thailand.<br>
-My website: https://breadtm.xyz/
+<h1 align='center'>Hi there 👋! It's me, Bread™ 🍞!</h1>
 
->Contact me:<br>![Discord](discord.webp)&emsp;![Gmail](gmail.webp)<br>Discord: [Bread™#6723](https://breadtm.xyz/user/810533927492124693)<br>
-Email: [me@breadtm.xyz](mailto:me@breadtm.xyz)
+## 🔍 About me
+- I'm interested in technology and science.
+- Currently learning python and web development (html, css, js).
+- Graphic design is my passion (not that I'm good at it)
+> Learn more about me at [breadtm.xyz](https://breadtm.xyz/)
 
+## 📬 Contact me
+- Discord: [Bread™#6723](https://breadtm.xyz/discord)
+- Email: [me@breadtm.xyz](mailto:me@breadtm.xyz)
+- Leave a message [here](https://breadtm.xyz/message)
+
+## 📊 Github Statistics
 ![Bread's Github Stats](https://github-readme-stats.vercel.app/api?username=itsbreadtime&count_private=true&show_icons=true&theme=merko&hide_border=true)
