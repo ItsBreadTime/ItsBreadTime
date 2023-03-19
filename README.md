@@ -7,7 +7,7 @@
 > Learn more about me at [breadtm.xyz](https://breadtm.xyz/)
 
 ## 📬 Contact me
-- Discord: [Bread™#6723](https://breadtm.xyz/discord)
+- Discord: [Bread™#7809](https://breadtm.xyz/discord)
 - Email: [me@breadtm.xyz](mailto:me@breadtm.xyz)
 - Leave a message [here](https://breadtm.xyz/message)
 
