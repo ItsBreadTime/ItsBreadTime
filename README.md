@@ -1,12 +1,10 @@
 <h1 align='center'>Hi there 👋! It's me, Bread™ 🍞!</h1>
 
 ## 🔍 About me
-[breadtm.xyz](https://breadtm.xyz)
+Take a look at [breadtm.xyz](https://breadtm.xyz)
 
-## 📬 Contact me
-- Discord: [bread.trademark](https://breadtm.xyz/discord)
+## 📬 Contact
+- Discord: [bread.trademark](https://discord.com/users/810533927492124693)
+- Discord server: [BreadWorld](https://discord.gg/uGbQsmRSxE) or on [Fluxer (bridged)](https://fluxer.gg/ejdQZ67c) 
 - Matrix: [@breadtm:mozilla.org](https://matrix.to/#/@breadtm:mozilla.org)
 - Email: [me@breadtm.xyz](mailto:me@breadtm.xyz)
-  
-## 📊 Github Statistics
-![Bread's Github Stats](https://github-readme-stats.vercel.app/api?username=itsbreadtime&count_private=true&show_icons=true&theme=merko&hide_border=true)
